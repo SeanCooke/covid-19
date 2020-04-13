@@ -12,7 +12,7 @@ For cases and deaths related to COVID-19, function `state_summary` creates 3 gra
 
 ### Comparing States
 
-Function `compare_states` creates 9 graphs and plots one line for each state in `state_to_graph`.  These 9 graphs are
+Function `compare_states` creates 9 graphs and plots one line for each state in `states_to_compare`.  These 9 graphs are
 
 * Cumulative Cases by Day
 * Cumulative Cases by Day (Normalized by Population)
